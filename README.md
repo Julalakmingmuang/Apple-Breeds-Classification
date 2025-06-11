@@ -22,7 +22,8 @@ The models include Convolutional Neural Networks (CNN), Random Forest (RF), Deci
 
 ## Prediction Examples
 Here are some examples of model predictions on test images:
-![Apple Prediction Overview](Results_Image/DB9E302F-65E4-445C-9D62-CDF6A497EC36.jpg)
+<img src="Results_Image/DB9E302F-65E4-445C-9D62-CDF6A497EC36.jpg" alt="Apple Prediction Overview" width="600"/>
+
 
 ## Requirements
 
